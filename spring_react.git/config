@@ -8,6 +8,7 @@
 	url = https://github.com/HANA-HAN/spring_react.git
 	fetch = +refs/*:refs/*
 	mirror = true
+	pushurl = https://github.com/HANA-HAN/spring_react.git
 [branch "example"]
 	remote = origin
 	merge = refs/heads/main
